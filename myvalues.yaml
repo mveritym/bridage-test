@@ -13,7 +13,7 @@ sharedSecret: "IBrakeForSeaBeasts"
 
 # OPTIONAL: Use this to have Brigade update your project about the build.
 # This is REQUIRED for the GitHub gateway, but optional otherwise.
-github: {}
+# github: {}
 #   token: "github oauth token"
 
 # OPTIONAL: Use this for private repositories
