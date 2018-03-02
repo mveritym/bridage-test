@@ -6,7 +6,7 @@ repository: "github.com/mveritym/brigade-test"
 
 # The definitive clone URL. This can be any Git-supported URL format.
 # You may set this to "" for no clone URL.
-cloneURL: "git@github.com:mveritym/brigade-test.git"
+cloneURL: "https://github.com/mveritym/bridage-test.git"
 
 # Used by GitHub and other services to compute hook HMACs.
 sharedSecret: "IBrakeForSeaBeasts"
